@@ -1,0 +1,43 @@
+.fuente {
+    font-family: 'Patrick Hand', cursive;
+}
+
+div.columna1, div.columna2 {
+    border: 1.5px solid grey;
+}
+
+div.columna1 {
+    background-color: lightseagreen;
+}
+
+div.columna2 { 
+    background-color: lightblue;
+}
+#boton{
+
+    color:rgb(0, 0, 0);
+    border: 6px solid rgb(51, 215, 221);
+    filter:
+    contrast(2) brightness(2);
+    transition: 0.3s;
+    transform: scale(1.05);
+
+}
+a{
+    border: 6px solid rgb(51, 215, 221);
+    border-radius: 10px;
+    cursor: pointer;
+    color: rgb(51, 215, 221);
+    font-size: 6vh;
+    filter:
+    contrast(2) brightness(2);
+    transition: 0.5s;
+    transform: scale(1.02);
+
+} 
+p#tumama {
+    font-size: 1.2em;
+}
+strong#supapa{
+    font-size: 1.6em;
+}
